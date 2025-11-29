@@ -180,7 +180,7 @@ const Footer = () => {
           } : {})}
           className="text-center text-sm text-foreground"
         >
-          <p>All copyrights reserved © 2025 - InfoZen IT</p>
+          <p>All copyrights reserved © 2025 - InfoZenX IT</p>
         </MotionDiv>
       </div>
     </footer>

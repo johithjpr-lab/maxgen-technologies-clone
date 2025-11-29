@@ -83,7 +83,7 @@ const HeroSection = () => {
                   } : {})}
                   className="text-primary inline-block"
                 >
-                  InfoZen
+                  InfoZenX IT
                 </MotionSpan>
               </MotionH1>
               

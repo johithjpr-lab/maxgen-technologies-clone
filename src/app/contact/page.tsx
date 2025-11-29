@@ -61,7 +61,7 @@ export default function ContactPage() {
                   <Mail className="w-8 h-8 text-primary" />
                 </div>
                 <h3 className="text-xl font-semibold text-gray-800 mb-2">Email</h3>
-                <p className="text-foreground">info@infozen-it.com</p>
+                <p className="text-foreground">infozenxit@gmail.com</p>
               </div>
 
               <div className="bg-white rounded-lg shadow-lg p-8 text-center">

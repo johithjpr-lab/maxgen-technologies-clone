@@ -29,7 +29,7 @@ const HeroSection = () => {
               animate: { opacity: 1, x: 0, rotateY: 0 },
               transition: { duration: 0.8, ease: "easeOut" }
             } : {}}
-            className="flex items-center justify-center perspective-1000">
+            className="flex items-center justify-center perspective-1000 !text-[27px]">
 
             {mounted ?
             <motion.div

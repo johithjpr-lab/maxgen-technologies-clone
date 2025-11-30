@@ -36,7 +36,7 @@ const Footer = () => {
               {mounted ? (
                 <motion.div whileHover={{ scale: 1.05 }} transition={{ duration: 0.2 }}>
                   <Image
-                    src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/InfoZen-IT-1764253329219.jpg"
+                    src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/infoZenX-IT-1764481244986.jpg"
                     alt="InfoZen IT Logo"
                     width={100}
                     height={50}
@@ -45,7 +45,7 @@ const Footer = () => {
                 </motion.div>
               ) : (
                 <Image
-                  src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/InfoZen-IT-1764253329219.jpg"
+                  src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/document-uploads/infoZenX-IT-1764481244986.jpg"
                   alt="InfoZen IT Logo"
                   width={100}
                   height={50}
